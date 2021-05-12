@@ -19,4 +19,4 @@
         int a': Mean of the elements
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 Recursion.py (Fill this in when submitting)

@@ -25,7 +25,7 @@
             Write a program to filter the identical pairs.
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 Search1.py (Fill this in when submitting)
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
 

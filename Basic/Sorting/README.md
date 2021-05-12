@@ -26,7 +26,7 @@
             How do we find the pivot in the array containing even number of elements?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: python3 Sorting.py (Fill this in when submitting)
 
 ## Problem 2: Find maximum number from a list of numbers (both negative and non-negative).
 
